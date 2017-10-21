@@ -1,0 +1,8 @@
+{
+    "name": "leonardpg/phpSlackNotification",
+    "type": "library",
+    "description": "Very simple wrapper to the Slack Incoming Message API endpoint.",
+    "autoload": {
+        "files": ["Slack.php"]
+    }
+}
