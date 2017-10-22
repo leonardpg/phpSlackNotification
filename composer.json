@@ -1,5 +1,5 @@
 {
-    "name": "leonardpg/phpSlackNotification",
+    "name": "leonardpg/phpslacknotification",
     "type": "library",
     "description": "Very simple wrapper to the Slack Incoming Message API endpoint.",
     "autoload": {
